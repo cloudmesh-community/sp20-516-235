@@ -2,8 +2,8 @@
 
 # E.Multipass.1:
 
-Multipass Version
-multipass  1.0.0+mac
+# Multipass Version
+#multipass  1.0.0+mac
 multipassd 1.0.0+mac
 
 
