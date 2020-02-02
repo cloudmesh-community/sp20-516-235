@@ -17,20 +17,32 @@ In case you did not work during the week, you still need to report it with
 
 # Notebook Yasir Alibadi sp20-516-23
 
-## Week 01/18/2020 - 01/24/2020
-
-* Read *Data Center*  chapter in *Cloud Computing* book.
-* Did data center assignments.
-* Verified info in [README.yml](./README.yml)
-* Verified Chameleon cloud account.
-* Setup python on my computers.
-
 ## Week 01/13/2020 - 01/17/2020
 
 * Read lecture notes up to week 1.
-* Read chapters 1, 2, and 3 of *Cloud Computing*.
 * Watched intro video on youtube.
 * Watched *Definition of Cloud Computing* on youtube.
+* Attended weekly zoom meeting for class.
+
+
+## Week 01/18/2020 - 01/24/2020
+
+* Read chapters 1, 2, and 3 of *Cloud Computing*.
+* Read *Data Center*  chapter in *Cloud Computing* book.
+* Verified info in [README.yml](./README.yml)
+* Verified Chameleon cloud account.
+* Attended weekly zoom meeting for class.
 * Setup python environment on my desktop and laptop.
 * Created required accounts that I didn't already have (chameleon cloud).
+* setup Pycharm
+
+## Week 01/25/2020 - 01/31/2020
+
+* Did data center assignments.
+* Setup python on my computers.
 * Attended weekly zoom meeting for class.
+* Multipass download
+* Multiplass assignment
+
+## Week 02/02/2020 - 02/08/2020
+
