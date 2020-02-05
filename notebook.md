@@ -38,6 +38,9 @@ In case you did not work during the week, you still need to report it with
 
 ## Week 01/25/2020 - 01/31/2020
 
+* Chapter selection 
+* Python review 
+
 * Did data center assignments.
 * Setup python on my computers.
 * Attended weekly zoom meeting for class.
