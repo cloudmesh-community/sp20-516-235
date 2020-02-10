@@ -6,7 +6,7 @@ class Provider:
 
     def list(self):
         banner("list")
-        # os.system("multipass find")
+        os.system("multipass find")
 
     def shell(self):
         print("shell")
