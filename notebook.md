@@ -49,3 +49,13 @@ In case you did not work during the week, you still need to report it with
 
 ## Week 02/02/2020 - 02/08/2020
 
+* revied Pyhton
+* compelete downloads 
+* Chapter Proosal
+
+## Week 02/10/2020 - 02/16/2020
+
+* Chapter update 
+* cloudmesh assigment 
+* Chapter proposal
+
