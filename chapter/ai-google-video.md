@@ -8,11 +8,37 @@ Google Ai Video using machine learning to keep track of object and content withi
 
 ![alt text](https://github.com/cloudmesh-community/sp20-516-235/blob/master/images/make-your-media-more-discoverable_2x.png)
 
-and it has so many benefits Precise video analysis video Intelligence API automatically recognizes more than 20,000 objects, places, and actions in stored and streaming video. It also distinguishes scene changes and extracts rich metadata at the video, shot, or frame level.
+## Benefits
 
-Simplify media management and find value in vast archives by making media easily searchable and discoverable. Easily search your video catalog the same way you search text documents. Extract metadata that can be used to index, organize, and search your video content, as well as control and filter content for what’s most relevant.
+### - Precise video analysis
 
-Easily create intelligent video apps and gain insights from video in near real time using the Video Intelligence Streaming Video APIs, and trigger events based on objects detected. Build engaging customer experiences with highlight reels, recommendations, interactive videos, and more.
+Video Intelligence API automatically recognizes more than 20,000 objects, places, and actions in stored and streaming video. It also distinguishes scene changes and extracts rich metadata at the video, shot, or frame level. Use in combination with AutoML Video Intelligence to create your own custom entity labels to categorize content. 
+
+![alt text](https://github.com/cloudmesh-community/sp20-516-235/blob/master/images/precise-video-analysis_2x.png)
+
+### - Simplify media management
+
+Find value in vast archives by making media easily searchable and discoverable. Easily search your video catalog the same way you search text documents. Extract metadata that can be used to index, organize, and search your video content, as well as control and filter content for what’s most relevant.
+
+![alt text](https://github.com/cloudmesh-community/sp20-516-235/blob/master/images/simplify-media-management_2x.png)
+
+### - Easily create intelligent video apps
+
+Gain insights from video in near real time using the Video Intelligence Streaming Video APIs, and trigger events based on objects detected. Build engaging customer experiences with highlight reels, recommendations, interactive videos, and more.
+
+![alt text](https://github.com/cloudmesh-community/sp20-516-235/blob/master/images/easily-create-intelligent-video-apps_2x.png)
+
+### - Automate expensive workflows
+
+Reduce time and costs associated with transcribing videos and generating closed captions, as well as flagging and filtering inappropriate content.
+
+![alt text](https://github.com/cloudmesh-community/sp20-516-235/blob/master/images/automate-expensive-workflows_2x.png)
+
+### - Process and store on Google Cloud Platform
+
+Seamlessly integrate with Google Cloud Storage to easily store and upload videos to your model. Select the region where processing will take place and choose from any region where Google Cloud Platform is available. Benefit from a consistent API, low-latency, and speed across multiple storage classes.
+
+![alt text](https://github.com/cloudmesh-community/sp20-516-235/blob/master/images/process-and-store-on-google-cloud-platform_2x.png)
 
 ## Products:
 
