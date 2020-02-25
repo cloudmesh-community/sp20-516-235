@@ -49,7 +49,7 @@ In case you did not work during the week, you still need to report it with
 
 ## Week 02/02/2020 - 02/08/2020
 
-* revied Pyhton
+* reviewed Pyhton
 * compelete downloads 
 * Chapter Proosal
 
@@ -58,4 +58,13 @@ In case you did not work during the week, you still need to report it with
 * Chapter update 
 * cloudmesh assigment 
 * Chapter proposal
+
+## Week 02/18/2020 - 02/24/2020
+
+* Chapter update
+* Python reviewed
+* Project Propsal
+* work on Project
+
+
 
