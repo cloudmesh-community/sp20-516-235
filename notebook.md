@@ -63,3 +63,10 @@ the last activities first (e.g. in reverse cronological order by week)
 * worked with Rahul on project task
 * working on lab task
 * workin on assigment 
+
+## Week 03/05/2020 - 03/11/2020
+
+* working on project
+* create google cloud account
+* update google cloudmesh page
+* wotking on assignment 
