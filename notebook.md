@@ -4,16 +4,6 @@ Please make sure you update it every week even if you have no time to work on
 anything. You can surely spend 2 minutes to update this document. Please put 
 the last activities first (e.g. in reverse cronological order by week)
 
-# Week Fri 08/31/20 - 09/06/20
-
-* :+1: Attended lecture
-* :o2: reviewed python
-
-# Week Fri 07/31/20 - 13/06/20
-
-In case you did not work during the week, you still need to report it with 
-
-* :o2: N/A
 
 # Notebook Yasir Alibadi sp20-516-23
 
@@ -66,5 +56,17 @@ In case you did not work during the week, you still need to report it with
 * Project Propsal
 * work on Project
 
+## Week 02/26/2020 - 03/02/2020
 
+* working on project
+* reading the chapter in the book
+* worked with Rahul on project task
+* working on lab task
+* workin on assigment 
 
+## Week 03/05/2020 - 03/11/2020
+
+* working on project
+* create google cloud account
+* update google cloudmesh page
+* wotking on assignment 
