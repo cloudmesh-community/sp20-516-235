@@ -30,7 +30,6 @@ the last activities first (e.g. in reverse cronological order by week)
 
 * Chapter selection 
 * Python review 
-
 * Did data center assignments.
 * Setup python on my computers.
 * Attended weekly zoom meeting for class.
@@ -70,3 +69,9 @@ the last activities first (e.g. in reverse cronological order by week)
 * create google cloud account
 * update google cloudmesh page
 * wotking on assignment 
+
+## Week 03/24/2020 - 03/29/2020
+
+* working on project
+* Update the webpage
+
