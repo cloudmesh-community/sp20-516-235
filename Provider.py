@@ -10,7 +10,8 @@ class Provider:
 
     def shell(self):
         print("shell")
-        # os.system("multipass shell")
+        os.system("multipass shell")
+
 
     def run(self, command):
         print(f"run {command}")
