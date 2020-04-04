@@ -75,3 +75,10 @@ the last activities first (e.g. in reverse cronological order by week)
 * working on project
 * Update the webpage
 
+## Week 03/30/2020 - 04/03/2020
+
+* Flavor function created
+* flavors function created 
+* create virual machine 
+* create google platform 
+* worlking on improve the function 
