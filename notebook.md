@@ -26,6 +26,8 @@ the last activities first (e.g. in reverse cronological order by week)
 * Created required accounts that I didn't already have (chameleon cloud).
 * setup Pycharm
 
+
+
 ## Week 01/25/2020 - 01/31/2020
 
 * Chapter selection 
@@ -75,3 +77,16 @@ the last activities first (e.g. in reverse cronological order by week)
 * working on project
 * Update the webpage
 
+## Week 03/30/2020 - 04/03/2020
+
+* Flavor function created
+* flavors function created 
+* create virual machine 
+* create google platform 
+* worrking on improve the function 
+
+## Week 04/06/20  20 - 04/11/2020
+
+* reading chapter 11 
+* working on Docker assigment 
+* project improvment
