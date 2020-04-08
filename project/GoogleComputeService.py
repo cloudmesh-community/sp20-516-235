@@ -83,15 +83,16 @@ def flavors(self, **kwargs):
     :return: dict of flavors
     """
     comput_servce = _get_compute_service(CLIENT_SECRET_FILE)
-    return _get_flavors(comput_servce, PROJECT_ID)
+    project_id = kwargs.get('project_id',PROJECT_ID)
+    zone = kwargs.get('zone', ZONE)
+    return _get_flavors(comput_servce, project_id, zone)
 
-def _get_flavors(compute_service, project_id):
+def _get_flavors(compute_service, project_id, zone):
     source_disk_flavor = None
-
     # Get the flavors for the image project.
     try:
         # Get list of images related to image project.
-        flavor_response = compute_service.machineTypes().aggregatedList(project=project_id).execute()
+        flavor_response = compute_service.machineTypes().list(project=project_id, zone=zone).execute()
         # Extract the items.
         source_disk_flavor = flavor_response['items']
         # print('flavors 2')
@@ -101,14 +102,24 @@ def _get_flavors(compute_service, project_id):
 
 if __name__ == "__main__":
 
-    print('flavor1 :')
-    pprint(flavor(MACHINE_TYPE, name='n1-standard-1'))
-
-    print('flavor2 :')
-    pprint(flavor(MACHINE_TYPE, name='n1-standard-2'))
+    # print('flavor1 :')
+    # pprint(flavor(MACHINE_TYPE, name='n1-standard-1'))
+    #
+    # print('flavor2 :')
+    # pprint(flavor(MACHINE_TYPE, name='n1-standard-2'))
 
     print('flavors')
-    pprint(flavors(PROJECT_ID))
+    print('Enter Zone:')
+    ZONE = input()
+    args={"project_id":PROJECT_ID, "zone":ZONE}
+    pprint(flavors(args))
+
+    # us-central1   a, b, c, f
+    # us-east1      b, c, d
+    # us-east4      a, b, c
+    # us-west1      a, b, c
+    # us-west2      a, b, c
+    # us-west3      a, b, c
 
 
 
