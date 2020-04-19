@@ -90,3 +90,8 @@ the last activities first (e.g. in reverse cronological order by week)
 * reading chapter 11 
 * working on Docker assigment 
 * project improvment
+
+## Week 04/13/20  20 - 04/19/2020
+
+* commit Flavor/Flavors
+* project improvment
