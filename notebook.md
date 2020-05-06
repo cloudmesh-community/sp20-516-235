@@ -103,3 +103,16 @@ the last activities first (e.g. in reverse cronological order by week)
 * commit list public ip
 * work on testing
 * project improvment
+
+## Week14 04/27/20  20 - 05/02/2020
+
+* flavor test
+* finsih list publick ip test
+* finish create publick ip test
+
+## Week15 05/04/20  20 - 05/08/2020
+
+* finish all testing
+* finsih functions
+* commit code
+* working on README.rm file
